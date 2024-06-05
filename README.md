@@ -13,7 +13,7 @@ My journey in experience of getting hacked since I was a child and curiosity of 
 
 | Database & Programming Languages                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SQL (Intermediate)          | <a href="https://google.com">Database creation and analysis</a>|
+| SQL (Intermediate)          | <a href="https://github.com/Zylink2/Database-Creation-And-Analysis">Database creation and analysis</a>|
 | Python (Intermediate) | Port scanner |
 | Bash (Beginner)         | Port scanner |
 | HTML (Beginner)      | Web enumeration |
@@ -54,6 +54,6 @@ My journey in experience of getting hacked since I was a child and curiosity of 
 -->
 
 ## Projects
-- <a href='https://github.com/Zylink2/Active-Directory-Server-Deployment/tree/main'>Active Directory Server Deployment</a>
-- AGODA Database Creation And Analysis
+- <a href='https://github.com/Zylink2/Active-Directory-Server-Deployment'>Active Directory Server Deployment</a>
+- <a href='https://github.com/Zylink2/Database-Creation-And-Analysis'>AGODA Database Creation And Analysis</a>
 - <a href='https://github.com/Zylink2/Boxes-Walkthrough'>Write Ups Boxes Walkthrough</a>
