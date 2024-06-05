@@ -6,7 +6,7 @@ I am a junior MIS student with a profound interest in technology and a dedicatio
 ## Objective
 
 
-My journey in experience of getting hacked since I was a child and curiosity of these process has led me to develop a passion for cybersecurity, and I am now eager to dive deep into this field, specifically aiming to join a Pentesting team.
+My journey in experience of getting hacked since I was a child and curiosity of these process have led me to develop a passion for cybersecurity, and I am now eager to dive deep into this field, specifically aiming to join a Pentesting team.
 
 ## Skills
 
