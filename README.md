@@ -19,6 +19,11 @@ My journey in experience of getting hacked since I was a child and curiosity of 
 | HTML (Beginner)      | Web enumeration |
 | XML (Beginner)                  | Web enumeration |
 
+## Certificates
+<div>
+  <img src="https://img.shields.io/badge/-CompTIA%20Sec%2B-red?style=for-the-badge&logo=Comptia&logoColor=whit" />
+</div>
+
 ## Tools
 <div>
   <img src="https://img.shields.io/badge/-Nmap-ADD8E6?&style=for-the-badge&logo=Nmap&logoColor=white" />
