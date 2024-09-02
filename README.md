@@ -22,8 +22,8 @@ My journey in experience of getting hacked since I was a child and curiosity of 
 
 ## Certificates
 <div>
-  <img src="https://img.shields.io/badge/-CompTIA%20Sec%2B-red?style=for-the-badge&logo=Comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ISC2%20CC-brightgreen?style=for-the-badge&logo=ISC2&logoColor=white" />
+  <a href="https://www.credly.com/badges/44644da3-003a-4ac7-8a8b-61c027585686/linked_in_profile"><img src="https://img.shields.io/badge/-CompTIA%20Sec%2B-red?style=for-the-badge&logo=Comptia&logoColor=white" /></a>
+  <a href="https://www.credly.com/badges/5b1ccc69-8194-4d57-a989-00693761aafd/linked_in_profile"><img src="https://img.shields.io/badge/-ISC2%20CC-brightgreen?style=for-the-badge&logo=ISC2&logoColor=white" /></a>
 </div>
 
 ## Tools
