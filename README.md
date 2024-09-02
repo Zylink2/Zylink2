@@ -15,6 +15,7 @@ My journey in experience of getting hacked since I was a child and curiosity of 
 |-----------------------------------------------|----------------------------|
 | SQL (Intermediate)          | <a href="https://github.com/Zylink2/Database-Creation-And-Analysis">Database creation and analysis</a>|
 | Python (Intermediate) | Port scanner |
+| Javascript (Intermediate) | |
 | Bash (Beginner)         | Port scanner |
 | HTML (Beginner)      | Web enumeration |
 | XML (Beginner)                  | Web enumeration |
