@@ -13,10 +13,10 @@ My journey in experience of getting hacked since I was a child and curiosity of 
 
 | Database & Programming Languages                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SQL (Intermediate)          | <a href="https://github.com/Zylink2/Database-Creation-And-Analysis">Database creation and analysis</a>|
-| Python (Intermediate) | <a href='https://github.com/Zylink2/Machine_Learning_Project_2'>Machine Learning</a> / Port scanner |
-| Javascript (Intermediate) | <a href='https://github.com/Zylink2/Simple-Rock-Paper-Scissors'>Simple Rocks Papers Scissors Game Website</a> / Bug Bounty |
-| HTML & CSS (Intermediate)      | <a href='https://github.com/Zylink2/Simple-Rock-Paper-Scissors'>Simple Rocks Papers Scissors Game Website</a> / Web enumeration |
+| SQL (Intermediate)          | <a href="https://github.com/Zylink2/Database-Creation-And-Analysis">Database creation and analysis</a> |
+| Python (Intermediate) | <a href='https://github.com/Zylink2/Machine_Learning_Project_2'>Machine Learning</a>, Port scanner |
+| Javascript (Intermediate) | <a href='https://github.com/Zylink2/Simple-Rock-Paper-Scissors'>Simple Rocks Papers Scissors Game Website</a>, Web enumeration |
+| HTML & CSS (Intermediate)      | <a href='https://github.com/Zylink2/Simple-Rock-Paper-Scissors'>Simple Rocks Papers Scissors Game Website</a>, Web enumeration |
 | Bash (Beginner)         | Port scanner |
 | XML (Beginner)                  | Web enumeration |
 
