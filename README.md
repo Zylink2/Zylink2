@@ -15,7 +15,7 @@ My journey in experience of getting hacked since I was a child and curiosity of 
 |-----------------------------------------------|----------------------------|
 | SQL (Intermediate)          | <a href="https://github.com/Zylink2/Database-Creation-And-Analysis">Database creation and analysis</a>|
 | Python (Intermediate) | <a href='https://github.com/Zylink2/Machine_Learning_Project_2'>Machine Learning</a> / Port scanner |
-| Javascript (Intermediate) | |
+| Javascript (Intermediate) | <a href='https://github.com/Zylink2/Simple-Rock-Paper-Scissors'>Simple Rocks Papers Scissors Game Website</a> |
 | Bash (Beginner)         | Port scanner |
 | HTML (Beginner)      | Web enumeration |
 | XML (Beginner)                  | Web enumeration |
@@ -63,5 +63,6 @@ My journey in experience of getting hacked since I was a child and curiosity of 
 ## Projects
 - <a href='https://github.com/Zylink2/Active-Directory-Server-Deployment'>Active Directory Server Deployment</a>
 - <a href='https://github.com/Zylink2/Machine_Learning_Project_2'>Machine Learning</a>
+- <a href='https://github.com/Zylink2/Simple-Rock-Paper-Scissors'>Simple Rocks Papers Scissors Game Website</a>
 - <a href='https://github.com/Zylink2/Database-Creation-And-Analysis'>AGODA Database Creation And Analysis</a>
 - <a href='https://github.com/Zylink2/Boxes-Walkthrough'>Write Ups Boxes Walkthrough</a>
