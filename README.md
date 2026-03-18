@@ -1,7 +1,7 @@
 # Hello, I'm Tanathep Sriratree
 <a href="https://www.linkedin.com/in/tanathep-sriratree/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a senior MIS student with a profound interest in technology and a dedication to solving complex problems with delicacy.
+I am a graduated MIS student with a profound interest in technology and a dedication to solving complex problems with delicacy.
 
 ## Objective
 
